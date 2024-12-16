@@ -16,6 +16,7 @@ Calc2048 is a creative adaptation of the classic 2048 game, incorporating calcul
 
 ## Installation
 1. Ensure you have Python 3.x installed.
+
 2. Install required dependencies:
    ```bash
    pip install pygame matplotlib numpy
@@ -46,7 +47,7 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 This project is licensed under the GNU General Public License v3.0 (GPL-3.0). See the [LICENSE](LICENSE) file for details.
 
 ## Screenshots
-Add screenshots of the game in action here.
+<img width="443" alt="Screenshot 2024-12-16 at 10 26 32 AM" src="https://github.com/user-attachments/assets/d87bfbc1-8111-4778-af8a-9361f3e0576b" />
 
 ## Acknowledgements
 - Inspired by the classic 2048 game.
